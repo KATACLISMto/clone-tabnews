@@ -2,9 +2,10 @@ function Home(){
  return(
     <div>
         <h1>amor i love you</h1>
-        <a href="https://www.youtube.com/watch?v=PWy4LyyZk4s&ab_channel=macgyvernews">clica ai meu amor</a>
+        <p>i love you to</p>
             
             </div>
  )
+ 
 }
  export default Home
